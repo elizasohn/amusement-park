@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-color: #66d9ff;
+}
+
+h1  {
+  color: red;
+}
+
+.hurl {
+  display: none;
+}
+.foodBaby {
+  display: none;
+}
+.snackAttack {
+  display: none;
+}
